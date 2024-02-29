@@ -16,3 +16,14 @@ code {
  height: 10%;
  width: 10%;
 }
+
+
+/* for Passward Generator */
+.re{
+  border: 2px solid red;
+}
+
+.ye{
+  border: 2px solid yellow;
+  background-color: rgb(70, 73, 77);
+}
